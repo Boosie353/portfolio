@@ -8,3 +8,5 @@ I am passionate about all things tech related as of late. The world seems to be 
 If you need to know more about me please feel free to see my LinkedIn, all my contact details are available there. https://www.linkedin.com/in/busisiwe-ngubane-webster/
 
 Please contact me for access to my body of work and previous projects I have completed.
+
+To see my average grade and marks for all tasks done during the data science course completed with HyperionDev follow this link https://www.hyperiondev.com/portfolio/61715/
